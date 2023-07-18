@@ -1,0 +1,18 @@
+{"level":"info","message":"server started and running on http://localhost:9000","timestamp":"2023-07-18T12:14:42.314Z"}
+{"level":"info","message":"mongoose is connected","timestamp":"2023-07-18T12:14:45.305Z"}
+level :info: : 	server started and running on http://localhost:9000
+level :info: : 	mongoose is connected
+level :info: 2023-07-18T12:26:31.895Z: 	server started and running on http://localhost:9000
+level :info: 2023-07-18T12:26:34.315Z: 	mongoose is connected
+level :info: 2023-07-18T12:27:32.576Z: 	server started and running on http://localhost:9000
+level :info: 2023-07-18T12:27:35.536Z: 	mongoose is connected
+level :info: Jul-18-2023 17:58:55: 	server started and running on http://localhost:9000
+level :info: Jul-18-2023 17:58:58: 	mongoose is connected
+level :info: Jul-18-2023 18:07:27: 	server started and running on http://localhost:9000
+level :info: Jul-18-2023 18:07:31: 	mongoose is connected
+level :info: Jul-18-2023 18:19:15: 	server started and running on http://localhost:9000
+level :info: Jul-18-2023 18:19:18: 	mongoose is connected
+level :info: Jul-18-2023 18:21:39: 	server started and running on http://localhost:9000
+level :info: Jul-18-2023 18:21:42: 	mongoose is connected
+level :info: Jul-18-2023 18:22:39: 	server started and running on http://localhost:9000
+level :info: Jul-18-2023 18:22:42: 	mongoose is connected
