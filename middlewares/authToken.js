@@ -13,7 +13,7 @@ const userAuthentication = async (req, res, next) => {
         });
       } else {
         req.user = decoded.userData;
-        console.log("name:", req.user);
+        // console.log("name:", req.user);
         next();
       }
     });
@@ -24,6 +24,7 @@ const userAuthentication = async (req, res, next) => {
     });
   }
 };
+
 // const userAuthorization = async (req, res) => {
 //   if (req.use.role == "admin") {
 //     next();
@@ -34,7 +35,8 @@ const userAuthentication = async (req, res, next) => {
 //     });
 //   }
 // };
-// module.exports = {
-//   userAuthentication,
-//   userAuthorization,
-// };
+
+module.exports = {
+  userAuthentication,
+  // userAuthorization,
+};

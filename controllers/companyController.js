@@ -1,4 +1,4 @@
-const { unlinkSync, accessSync } = require("fs");
+const { unlinkSync } = require("fs");
 let companySchema = require("../models/companySchema");
 const companyReviewSchema = require("../models/companyReviewSchema");
 
@@ -11,28 +11,28 @@ module.exports = {
       });
       if (isCompanyExist) {
         req.file ? unlinkSync(req.file.path) : null;
-        res.status(401).send({
+        res.status(409).send({
           success: false,
-          message: "company is already registered ",
+          message: "Company is already registered",
         });
       } else {
         const filePath = `/uploads/company${req.file.filename}`;
         companyData.companyPic = filePath;
         const user = await companyData.save();
-        res.status(200).json({
+        res.status(201).json({
           success: true,
-          message: "company created successfully",
+          message: "Company created successfully",
         });
       }
     } catch (err) {
       res.status(500).json({
         success: false,
-        message: `error occure ${err.message}`,
+        message: `Error occure ${err.message}`,
       });
     }
   },
 
-  // -----------COMPANY LIST------------
+//          COMPANY LIST
 
   companyList: async (req, res) => {
     try {
@@ -40,7 +40,7 @@ module.exports = {
       const totalCompany = await companySchema.find().count();
       res.status(200).json({
         success: true,
-        message: "All company found successfully ",
+        message: "All company found successfully",
         count: totalCompany,
         companies: companyList,
       });
@@ -52,19 +52,18 @@ module.exports = {
     }
   },
 
-  // Company Details
+//          Company Details
 
   companyDetails: async (req, res) => {
     try {
       const companyData = await companySchema.findById(req.params.id);
       const reviewData = await companyReviewSchema
         .find({ companyId: req.params.id })
-        .populate({ path: "userId", select: "userName profilePic" });
+        .populate({ path: "userId", select: "userName profilePic" }); // For referencing
       res.status(200).json({
         success: true,
-        message: "All reviews are successfully uploaded",
-        count: companyData,
-        companies: reviewData,
+        message: "All reviews are successfully fetched",
+        companies: companyData,
       });
     } catch (err) {
       res.status(500).json({
@@ -74,7 +73,7 @@ module.exports = {
     }
   },
 
-  // search APi
+//            Search APi
 
   searchCompany: async (req, res) => {
     try {
@@ -85,13 +84,13 @@ module.exports = {
       });
       res.status(200).json({
         success: true,
-        message: "company you searched for...",
+        message: "Company you searched for...",
         companies: userData,
       });
     } catch (error) {
       res.status(500).json({
         success: false,
-        message: `error in  ${error.message}`,
+        message: `Error in  ${error.message}`,
       });
     }
   },
@@ -111,7 +110,7 @@ module.exports = {
     } catch (error) {
       res.status(500).json({
         success: false,
-        message: `error in ${error.message}`,
+        message: `Error in ${error.message}`,
       });
     }
   },

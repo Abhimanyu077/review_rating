@@ -16,3 +16,1526 @@ level :info: Jul-18-2023 18:21:39: 	server started and running on http://localho
 level :info: Jul-18-2023 18:21:42: 	mongoose is connected
 level :info: Jul-18-2023 18:22:39: 	server started and running on http://localhost:9000
 level :info: Jul-18-2023 18:22:42: 	mongoose is connected
+level :info: Jul-18-2023 18:44:39: 	server started and running on http://localhost:9000
+level :info: Jul-18-2023 18:44:43: 	mongoose is connected
+level :info: Jul-18-2023 22:32:26: 	server started and running on http://localhost:9000
+level :info: Jul-18-2023 22:32:31: 	mongoose is connected
+level :info: Jul-18-2023 22:32:59: 	server started and running on http://localhost:9000
+level :info: Jul-18-2023 22:33:03: 	mongoose is connected
+level :info: Jul-18-2023 23:01:54: 	mongoose is connected
+level :info: Jul-18-2023 23:19:56: 	mongoose is connected
+level :info: Jul-18-2023 23:37:49: 	mongoose is connected
+level :info: Jul-19-2023 00:01:21: 	mongoose is connected
+level :info: Jul-19-2023 00:19:54: 	mongoose is connected
+level :info: Jul-19-2023 00:41:07: 	mongoose is connected
+level :info: Jul-19-2023 11:35:21: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 11:35:27: 	mongoose is connected
+level :info: Jul-19-2023 11:35:47: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 11:35:50: 	mongoose is connected
+level :info: Jul-19-2023 11:41:20: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 11:41:25: 	mongoose is connected
+level :info: Jul-19-2023 12:05:15: 	mongoose is connected
+level :info: Jul-19-2023 12:27:38: 	mongoose is connected
+level :info: Jul-19-2023 12:45:31: 	mongoose is connected
+level :info: Jul-19-2023 13:01:19: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 13:01:23: 	mongoose is connected
+level :info: Jul-19-2023 15:43:45: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 15:43:48: 	mongoose is connected
+level :info: Jul-19-2023 16:08:29: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 16:08:32: 	mongoose is connected
+level :info: Jul-19-2023 16:11:07: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 16:46:46: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 16:46:48: 	mongoose is connected
+level :info: Jul-19-2023 17:02:04: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:02:07: 	mongoose is connected
+level :info: Jul-19-2023 17:02:56: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:02:59: 	mongoose is connected
+level :info: Jul-19-2023 17:03:03: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:03:06: 	mongoose is connected
+level :info: Jul-19-2023 17:25:20: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:25:23: 	mongoose is connected
+level :info: Jul-19-2023 17:26:18: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:26:21: 	mongoose is connected
+level :info: Jul-19-2023 17:26:42: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:26:45: 	mongoose is connected
+level :info: Jul-19-2023 17:26:53: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:27:01: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:27:04: 	mongoose is connected
+level :info: Jul-19-2023 17:27:42: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:27:45: 	mongoose is connected
+level :info: Jul-19-2023 17:31:00: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:31:03: 	mongoose is connected
+level :info: Jul-19-2023 17:32:37: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:32:39: 	mongoose is connected
+level :info: Jul-19-2023 17:35:10: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:35:13: 	mongoose is connected
+level :info: Jul-19-2023 17:39:34: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:39:37: 	mongoose is connected
+level :info: Jul-19-2023 17:40:41: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:40:43: 	mongoose is connected
+level :info: Jul-19-2023 17:41:09: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:41:12: 	mongoose is connected
+level :info: Jul-19-2023 17:42:47: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:42:50: 	mongoose is connected
+level :info: Jul-19-2023 17:43:00: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:43:02: 	mongoose is connected
+level :info: Jul-19-2023 17:44:34: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:44:36: 	mongoose is connected
+level :info: Jul-19-2023 17:45:18: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:45:21: 	mongoose is connected
+level :info: Jul-19-2023 17:45:30: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:45:31: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:45:33: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:45:35: 	mongoose is connected
+level :info: Jul-19-2023 17:45:43: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:45:46: 	mongoose is connected
+level :info: Jul-19-2023 17:46:13: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:46:16: 	mongoose is connected
+level :info: Jul-19-2023 17:46:18: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:46:21: 	mongoose is connected
+level :info: Jul-19-2023 17:46:23: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:46:25: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:46:28: 	mongoose is connected
+level :info: Jul-19-2023 17:47:56: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:47:58: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:48:00: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:48:02: 	mongoose is connected
+level :info: Jul-19-2023 17:48:06: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:48:09: 	mongoose is connected
+level :info: Jul-19-2023 17:48:23: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:48:30: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:48:32: 	mongoose is connected
+level :info: Jul-19-2023 17:50:47: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:50:49: 	mongoose is connected
+level :info: Jul-19-2023 17:51:50: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:51:53: 	mongoose is connected
+level :info: Jul-19-2023 17:52:58: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:53:00: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:53:03: 	mongoose is connected
+level :info: Jul-19-2023 17:53:20: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:53:23: 	mongoose is connected
+level :info: Jul-19-2023 17:54:19: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:54:21: 	mongoose is connected
+level :info: Jul-19-2023 17:54:23: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:54:25: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:54:31: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:54:33: 	mongoose is connected
+level :info: Jul-19-2023 17:54:54: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:54:56: 	mongoose is connected
+level :info: Jul-19-2023 17:56:15: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:56:18: 	mongoose is connected
+level :info: Jul-19-2023 17:57:48: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:57:51: 	mongoose is connected
+level :info: Jul-19-2023 17:58:43: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:58:45: 	mongoose is connected
+level :info: Jul-19-2023 17:59:17: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:59:19: 	mongoose is connected
+level :info: Jul-19-2023 17:59:36: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:59:39: 	mongoose is connected
+level :info: Jul-19-2023 17:59:44: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 17:59:46: 	mongoose is connected
+level :info: Jul-19-2023 18:00:11: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:00:14: 	mongoose is connected
+level :info: Jul-19-2023 18:01:27: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:01:29: 	mongoose is connected
+level :info: Jul-19-2023 18:01:56: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:01:58: 	mongoose is connected
+level :info: Jul-19-2023 18:02:52: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:02:55: 	mongoose is connected
+level :info: Jul-19-2023 18:03:37: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:03:40: 	mongoose is connected
+level :info: Jul-19-2023 18:12:08: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:12:11: 	mongoose is connected
+level :info: Jul-19-2023 18:12:31: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:12:40: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:12:42: 	mongoose is connected
+level :info: Jul-19-2023 18:19:06: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:19:09: 	mongoose is connected
+level :info: Jul-19-2023 18:20:19: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:20:23: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:20:25: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:20:28: 	mongoose is connected
+level :info: Jul-19-2023 18:20:45: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:20:48: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:20:51: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:20:56: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:20:58: 	mongoose is connected
+level :info: Jul-19-2023 18:21:01: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:21:04: 	mongoose is connected
+level :info: Jul-19-2023 18:21:47: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:21:50: 	mongoose is connected
+level :info: Jul-19-2023 18:21:52: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:21:54: 	mongoose is connected
+level :info: Jul-19-2023 18:22:00: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:22:02: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:22:03: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:22:06: 	mongoose is connected
+level :info: Jul-19-2023 18:22:12: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:22:14: 	mongoose is connected
+level :info: Jul-19-2023 18:22:22: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:22:24: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:22:27: 	mongoose is connected
+level :info: Jul-19-2023 18:22:31: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:22:33: 	mongoose is connected
+level :info: Jul-19-2023 18:22:35: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:22:42: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:22:45: 	mongoose is connected
+level :info: Jul-19-2023 18:23:47: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:23:50: 	mongoose is connected
+level :info: Jul-19-2023 18:24:55: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:24:58: 	mongoose is connected
+level :info: Jul-19-2023 18:25:13: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:25:15: 	mongoose is connected
+level :info: Jul-19-2023 18:25:54: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:25:57: 	mongoose is connected
+level :info: Jul-19-2023 18:25:59: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:26:01: 	mongoose is connected
+level :info: Jul-19-2023 18:26:10: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:26:12: 	mongoose is connected
+level :info: Jul-19-2023 18:27:08: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:27:10: 	mongoose is connected
+level :info: Jul-19-2023 18:27:38: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:27:41: 	mongoose is connected
+level :info: Jul-19-2023 18:28:08: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:28:10: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:28:12: 	mongoose is connected
+level :info: Jul-19-2023 18:28:42: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:28:44: 	mongoose is connected
+level :info: Jul-19-2023 18:29:25: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:29:27: 	mongoose is connected
+level :info: Jul-19-2023 18:30:02: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:30:06: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:30:12: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:30:14: 	mongoose is connected
+level :info: Jul-19-2023 18:30:33: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:30:36: 	mongoose is connected
+level :info: Jul-19-2023 18:30:48: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:30:51: 	mongoose is connected
+level :info: Jul-19-2023 18:31:02: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:31:04: 	mongoose is connected
+level :info: Jul-19-2023 18:32:01: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:32:03: 	mongoose is connected
+level :info: Jul-19-2023 18:32:38: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:32:41: 	mongoose is connected
+level :info: Jul-19-2023 18:32:43: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:32:51: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:32:54: 	mongoose is connected
+level :info: Jul-19-2023 18:34:01: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:34:05: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:34:08: 	mongoose is connected
+level :info: Jul-19-2023 18:34:35: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:34:38: 	mongoose is connected
+level :info: Jul-19-2023 18:34:54: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:34:56: 	mongoose is connected
+level :info: Jul-19-2023 18:36:36: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:36:39: 	mongoose is connected
+level :info: Jul-19-2023 18:41:23: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:41:25: 	mongoose is connected
+level :info: Jul-19-2023 18:42:09: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:42:11: 	mongoose is connected
+level :info: Jul-19-2023 18:43:20: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:43:23: 	mongoose is connected
+level :info: Jul-19-2023 18:43:32: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:43:36: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:43:38: 	mongoose is connected
+level :info: Jul-19-2023 18:44:23: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:44:25: 	mongoose is connected
+level :info: Jul-19-2023 18:44:31: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:44:34: 	mongoose is connected
+level :info: Jul-19-2023 18:44:37: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:44:40: 	mongoose is connected
+level :info: Jul-19-2023 18:44:48: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:44:50: 	mongoose is connected
+level :info: Jul-19-2023 18:45:00: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:45:02: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:45:08: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:45:10: 	mongoose is connected
+level :info: Jul-19-2023 18:50:56: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:50:58: 	mongoose is connected
+level :info: Jul-19-2023 18:52:07: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:52:09: 	mongoose is connected
+level :info: Jul-19-2023 18:53:44: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:53:46: 	mongoose is connected
+level :info: Jul-19-2023 18:54:13: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:54:15: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:54:17: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:54:20: 	mongoose is connected
+level :info: Jul-19-2023 18:55:10: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:55:13: 	mongoose is connected
+level :info: Jul-19-2023 18:56:40: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 18:56:43: 	mongoose is connected
+level :info: Jul-19-2023 19:00:06: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 19:00:10: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 19:00:12: 	mongoose is connected
+level :info: Jul-19-2023 19:01:04: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 19:01:07: 	mongoose is connected
+level :info: Jul-19-2023 19:01:25: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 19:01:27: 	mongoose is connected
+level :info: Jul-19-2023 22:19:28: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:01:04: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:01:08: 	mongoose is connected
+level :info: Jul-19-2023 23:15:35: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:15:39: 	mongoose is connected
+level :info: Jul-19-2023 23:16:16: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:16:20: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:16:23: 	mongoose is connected
+level :info: Jul-19-2023 23:17:18: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:17:21: 	mongoose is connected
+level :info: Jul-19-2023 23:17:37: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:17:44: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:17:47: 	mongoose is connected
+level :info: Jul-19-2023 23:17:50: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:17:53: 	mongoose is connected
+level :info: Jul-19-2023 23:18:13: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:18:16: 	mongoose is connected
+level :info: Jul-19-2023 23:19:14: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:19:18: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:19:21: 	mongoose is connected
+level :info: Jul-19-2023 23:19:28: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:19:33: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:19:36: 	mongoose is connected
+level :info: Jul-19-2023 23:19:44: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:19:47: 	mongoose is connected
+level :info: Jul-19-2023 23:19:53: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:19:56: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:19:59: 	mongoose is connected
+level :info: Jul-19-2023 23:20:09: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:20:11: 	mongoose is connected
+level :info: Jul-19-2023 23:21:42: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:21:46: 	mongoose is connected
+level :info: Jul-19-2023 23:22:01: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:22:03: 	mongoose is connected
+level :info: Jul-19-2023 23:22:07: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:22:11: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:22:14: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:22:17: 	mongoose is connected
+level :info: Jul-19-2023 23:22:19: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:22:22: 	mongoose is connected
+level :info: Jul-19-2023 23:22:30: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:22:33: 	mongoose is connected
+level :info: Jul-19-2023 23:22:46: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:22:49: 	mongoose is connected
+level :info: Jul-19-2023 23:23:02: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:23:04: 	mongoose is connected
+level :info: Jul-19-2023 23:24:04: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:24:08: 	mongoose is connected
+level :info: Jul-19-2023 23:25:02: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:25:05: 	mongoose is connected
+level :info: Jul-19-2023 23:25:18: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:25:21: 	mongoose is connected
+level :info: Jul-19-2023 23:26:03: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:26:06: 	mongoose is connected
+level :info: Jul-19-2023 23:27:08: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:27:12: 	mongoose is connected
+level :info: Jul-19-2023 23:52:31: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:55:21: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:58:04: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:58:25: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:58:49: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:59:12: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:59:38: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:59:49: 	server started and running on http://localhost:9000
+level :info: Jul-19-2023 23:59:53: 	mongoose is connected
+level :info: Jul-20-2023 00:01:44: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:01:47: 	mongoose is connected
+level :info: Jul-20-2023 00:07:23: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:10:04: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:10:08: 	mongoose is connected
+level :info: Jul-20-2023 00:12:49: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:12:58: 	mongoose is connected
+level :info: Jul-20-2023 00:13:11: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:13:48: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:13:56: 	mongoose is connected
+level :info: Jul-20-2023 00:19:07: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:19:11: 	mongoose is connected
+level :info: Jul-20-2023 00:19:15: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:19:18: 	mongoose is connected
+level :info: Jul-20-2023 00:20:53: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:20:57: 	mongoose is connected
+level :info: Jul-20-2023 00:21:05: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:21:12: 	mongoose is connected
+level :info: Jul-20-2023 00:28:54: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:28:58: 	mongoose is connected
+level :info: Jul-20-2023 00:29:23: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:29:26: 	mongoose is connected
+level :info: Jul-20-2023 00:33:51: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:33:54: 	mongoose is connected
+level :info: Jul-20-2023 00:34:42: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:34:45: 	mongoose is connected
+level :info: Jul-20-2023 00:35:02: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:35:05: 	mongoose is connected
+level :info: Jul-20-2023 00:35:26: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:35:28: 	mongoose is connected
+level :info: Jul-20-2023 00:36:24: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:36:28: 	mongoose is connected
+level :info: Jul-20-2023 00:36:37: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:36:40: 	mongoose is connected
+level :info: Jul-20-2023 00:37:59: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:38:02: 	mongoose is connected
+level :info: Jul-20-2023 00:38:19: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:38:22: 	mongoose is connected
+level :info: Jul-20-2023 00:39:28: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:39:31: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:39:33: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:39:36: 	mongoose is connected
+level :info: Jul-20-2023 00:41:59: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:42:03: 	mongoose is connected
+level :info: Jul-20-2023 00:42:24: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:42:27: 	mongoose is connected
+level :info: Jul-20-2023 00:48:30: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:48:34: 	mongoose is connected
+level :info: Jul-20-2023 00:50:17: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:50:21: 	mongoose is connected
+level :info: Jul-20-2023 00:50:37: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:50:40: 	mongoose is connected
+level :info: Jul-20-2023 00:55:57: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:56:00: 	mongoose is connected
+level :info: Jul-20-2023 00:56:43: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:56:46: 	mongoose is connected
+level :info: Jul-20-2023 00:57:01: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:57:04: 	mongoose is connected
+level :info: Jul-20-2023 00:57:15: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:57:17: 	mongoose is connected
+level :info: Jul-20-2023 00:57:47: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 00:57:50: 	mongoose is connected
+level :info: Jul-20-2023 01:01:20: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 01:01:23: 	mongoose is connected
+level :info: Jul-20-2023 01:01:32: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 01:01:35: 	mongoose is connected
+level :info: Jul-20-2023 11:55:01: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 11:55:25: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 11:55:27: 	mongoose is connected
+level :info: Jul-20-2023 11:56:13: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 11:56:16: 	mongoose is connected
+level :info: Jul-20-2023 11:56:50: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 11:56:52: 	mongoose is connected
+level :info: Jul-20-2023 15:53:02: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 15:53:06: 	mongoose is connected
+level :info: Jul-20-2023 15:53:27: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 15:53:29: 	mongoose is connected
+level :info: Jul-20-2023 16:07:52: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 16:07:54: 	mongoose is connected
+level :info: Jul-20-2023 16:10:23: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 16:10:26: 	mongoose is connected
+level :info: Jul-20-2023 16:11:26: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 16:11:29: 	mongoose is connected
+level :info: Jul-20-2023 16:13:16: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 16:13:18: 	mongoose is connected
+level :info: Jul-20-2023 16:19:00: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 16:19:03: 	mongoose is connected
+level :info: Jul-20-2023 16:24:16: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 16:24:19: 	mongoose is connected
+level :info: Jul-20-2023 16:37:48: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 16:37:51: 	mongoose is connected
+level :info: Jul-20-2023 16:38:42: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 16:38:44: 	mongoose is connected
+level :info: Jul-20-2023 16:46:13: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 16:46:16: 	mongoose is connected
+level :info: Jul-20-2023 16:57:33: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 16:57:36: 	mongoose is connected
+level :info: Jul-20-2023 17:04:27: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:04:30: 	mongoose is connected
+level :info: Jul-20-2023 17:14:46: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:14:49: 	mongoose is connected
+level :info: Jul-20-2023 17:16:18: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:16:19: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:16:21: 	mongoose is connected
+level :info: Jul-20-2023 17:16:55: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:16:58: 	mongoose is connected
+level :info: Jul-20-2023 17:18:04: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:18:07: 	mongoose is connected
+level :info: Jul-20-2023 17:18:15: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:18:18: 	mongoose is connected
+level :info: Jul-20-2023 17:18:32: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:18:35: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:18:37: 	mongoose is connected
+level :info: Jul-20-2023 17:18:40: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:18:43: 	mongoose is connected
+level :info: Jul-20-2023 17:18:53: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:18:55: 	mongoose is connected
+level :info: Jul-20-2023 17:19:12: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:19:15: 	mongoose is connected
+level :info: Jul-20-2023 17:19:39: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:19:42: 	mongoose is connected
+level :info: Jul-20-2023 17:20:20: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:20:22: 	mongoose is connected
+level :info: Jul-20-2023 17:21:05: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:21:10: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:21:13: 	mongoose is connected
+level :info: Jul-20-2023 17:21:30: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:21:33: 	mongoose is connected
+level :info: Jul-20-2023 17:21:34: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:21:37: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:21:39: 	mongoose is connected
+level :info: Jul-20-2023 17:21:47: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:21:52: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:21:54: 	mongoose is connected
+level :info: Jul-20-2023 17:25:33: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:25:35: 	mongoose is connected
+level :info: Jul-20-2023 17:28:03: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:28:05: 	mongoose is connected
+level :info: Jul-20-2023 17:28:55: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:28:58: 	mongoose is connected
+level :info: Jul-20-2023 17:29:26: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:29:29: 	mongoose is connected
+level :info: Jul-20-2023 17:30:14: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:30:16: 	mongoose is connected
+level :info: Jul-20-2023 17:31:34: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:31:36: 	mongoose is connected
+level :info: Jul-20-2023 17:32:29: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:32:31: 	mongoose is connected
+level :info: Jul-20-2023 17:33:00: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:33:03: 	mongoose is connected
+level :info: Jul-20-2023 17:33:04: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:33:07: 	mongoose is connected
+level :info: Jul-20-2023 17:33:28: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:33:30: 	mongoose is connected
+level :info: Jul-20-2023 17:35:04: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:35:07: 	mongoose is connected
+level :info: Jul-20-2023 17:35:44: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:35:47: 	mongoose is connected
+level :info: Jul-20-2023 17:35:52: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:35:54: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:35:57: 	mongoose is connected
+level :info: Jul-20-2023 17:36:00: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:36:01: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:36:04: 	mongoose is connected
+level :info: Jul-20-2023 17:36:10: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:36:12: 	mongoose is connected
+level :info: Jul-20-2023 17:36:41: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:36:44: 	mongoose is connected
+level :info: Jul-20-2023 17:37:08: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:37:13: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:37:15: 	mongoose is connected
+level :info: Jul-20-2023 17:37:35: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:37:38: 	mongoose is connected
+level :info: Jul-20-2023 17:38:32: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:38:34: 	mongoose is connected
+level :info: Jul-20-2023 17:40:53: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:40:56: 	mongoose is connected
+level :info: Jul-20-2023 17:42:17: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:42:19: 	mongoose is connected
+level :info: Jul-20-2023 17:43:19: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:43:22: 	mongoose is connected
+level :info: Jul-20-2023 17:45:25: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:45:29: 	mongoose is connected
+level :info: Jul-20-2023 17:46:58: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:47:01: 	mongoose is connected
+level :info: Jul-20-2023 17:47:34: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:47:36: 	mongoose is connected
+level :info: Jul-20-2023 17:48:11: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 17:48:13: 	mongoose is connected
+level :info: Jul-20-2023 18:16:16: 	mongoose is connected
+level :info: Jul-20-2023 18:18:39: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:18:42: 	mongoose is connected
+level :info: Jul-20-2023 18:19:07: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:19:10: 	mongoose is connected
+level :info: Jul-20-2023 18:19:54: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:19:56: 	mongoose is connected
+level :info: Jul-20-2023 18:20:52: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:20:55: 	mongoose is connected
+level :info: Jul-20-2023 18:21:09: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:21:11: 	mongoose is connected
+level :info: Jul-20-2023 18:22:04: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:22:06: 	mongoose is connected
+level :info: Jul-20-2023 18:34:09: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:34:11: 	mongoose is connected
+level :info: Jul-20-2023 18:46:36: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:46:38: 	mongoose is connected
+level :info: Jul-20-2023 18:47:50: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:47:52: 	mongoose is connected
+level :info: Jul-20-2023 18:48:21: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:48:24: 	mongoose is connected
+level :info: Jul-20-2023 18:52:57: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:53:00: 	mongoose is connected
+level :info: Jul-20-2023 18:55:19: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:55:21: 	mongoose is connected
+level :info: Jul-20-2023 18:58:35: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:58:38: 	mongoose is connected
+level :info: Jul-20-2023 18:58:57: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 18:59:00: 	mongoose is connected
+level :info: Jul-20-2023 19:01:25: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 19:01:27: 	mongoose is connected
+level :info: Jul-20-2023 19:02:22: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 19:02:24: 	mongoose is connected
+level :info: Jul-20-2023 19:02:52: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 19:02:54: 	mongoose is connected
+level :info: Jul-20-2023 19:04:48: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 19:04:50: 	mongoose is connected
+level :info: Jul-20-2023 19:05:51: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 19:05:54: 	mongoose is connected
+level :info: Jul-20-2023 19:10:22: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 19:10:25: 	mongoose is connected
+level :info: Jul-20-2023 23:36:21: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:36:25: 	mongoose is connected
+level :info: Jul-20-2023 23:37:29: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:37:33: 	mongoose is connected
+level :info: Jul-20-2023 23:37:48: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:37:51: 	mongoose is connected
+level :info: Jul-20-2023 23:39:35: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:39:39: 	mongoose is connected
+level :info: Jul-20-2023 23:39:54: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:39:57: 	mongoose is connected
+level :info: Jul-20-2023 23:44:38: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:44:41: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:44:43: 	mongoose is connected
+level :info: Jul-20-2023 23:44:45: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:44:47: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:44:50: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:44:52: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:44:54: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:44:57: 	mongoose is connected
+level :info: Jul-20-2023 23:48:44: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:48:53: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:48:56: 	mongoose is connected
+level :info: Jul-20-2023 23:52:08: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:52:11: 	mongoose is connected
+level :info: Jul-20-2023 23:53:18: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:53:21: 	mongoose is connected
+level :info: Jul-20-2023 23:55:36: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:55:39: 	mongoose is connected
+level :info: Jul-20-2023 23:55:50: 	server started and running on http://localhost:9000
+level :info: Jul-20-2023 23:55:53: 	mongoose is connected
+level :info: Jul-21-2023 00:06:22: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:06:25: 	mongoose is connected
+level :info: Jul-21-2023 00:13:39: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:13:43: 	mongoose is connected
+level :info: Jul-21-2023 00:14:15: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:14:17: 	mongoose is connected
+level :info: Jul-21-2023 00:15:34: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:15:38: 	mongoose is connected
+level :info: Jul-21-2023 00:17:03: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:17:06: 	mongoose is connected
+level :info: Jul-21-2023 00:17:17: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:17:19: 	mongoose is connected
+level :info: Jul-21-2023 00:17:28: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:17:31: 	mongoose is connected
+level :info: Jul-21-2023 00:17:38: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:17:40: 	mongoose is connected
+level :info: Jul-21-2023 00:17:48: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:17:51: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:17:54: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:17:57: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:18:00: 	mongoose is connected
+level :info: Jul-21-2023 00:18:03: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:18:07: 	mongoose is connected
+level :info: Jul-21-2023 00:18:13: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:18:16: 	mongoose is connected
+level :info: Jul-21-2023 00:18:26: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:18:29: 	mongoose is connected
+level :info: Jul-21-2023 00:18:56: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:18:58: 	mongoose is connected
+level :info: Jul-21-2023 00:19:29: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:19:32: 	mongoose is connected
+level :info: Jul-21-2023 00:19:48: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:19:51: 	mongoose is connected
+level :info: Jul-21-2023 00:19:58: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:20:01: 	mongoose is connected
+level :info: Jul-21-2023 00:20:14: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:20:17: 	mongoose is connected
+level :info: Jul-21-2023 00:21:29: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:21:32: 	mongoose is connected
+level :info: Jul-21-2023 00:55:13: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 00:55:18: 	mongoose is connected
+level :info: Jul-21-2023 01:09:54: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:09:57: 	mongoose is connected
+level :info: Jul-21-2023 01:11:24: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:11:27: 	mongoose is connected
+level :info: Jul-21-2023 01:11:37: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:11:39: 	mongoose is connected
+level :info: Jul-21-2023 01:11:54: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:11:57: 	mongoose is connected
+level :info: Jul-21-2023 01:12:35: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:12:38: 	mongoose is connected
+level :info: Jul-21-2023 01:13:09: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:13:12: 	mongoose is connected
+level :info: Jul-21-2023 01:14:48: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:14:51: 	mongoose is connected
+level :info: Jul-21-2023 01:16:40: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:16:44: 	mongoose is connected
+level :info: Jul-21-2023 01:18:31: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:18:40: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:18:43: 	mongoose is connected
+level :info: Jul-21-2023 01:19:37: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:19:39: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:19:41: 	mongoose is connected
+level :info: Jul-21-2023 01:19:43: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:19:46: 	mongoose is connected
+level :info: Jul-21-2023 01:19:49: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:19:52: 	mongoose is connected
+level :info: Jul-21-2023 01:19:59: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:20:01: 	mongoose is connected
+level :info: Jul-21-2023 01:20:07: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:20:09: 	mongoose is connected
+level :info: Jul-21-2023 01:20:13: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:20:16: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:20:19: 	mongoose is connected
+level :info: Jul-21-2023 01:20:22: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:20:25: 	mongoose is connected
+level :info: Jul-21-2023 01:20:30: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:20:31: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:20:33: 	mongoose is connected
+level :info: Jul-21-2023 01:20:46: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:20:49: 	mongoose is connected
+level :info: Jul-21-2023 01:24:19: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:24:22: 	mongoose is connected
+level :info: Jul-21-2023 01:24:52: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:24:57: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 01:24:59: 	mongoose is connected
+level :info: Jul-21-2023 02:03:25: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 02:03:29: 	mongoose is connected
+level :info: Jul-21-2023 02:36:35: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 02:36:38: 	mongoose is connected
+level :info: Jul-21-2023 14:30:43: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 14:30:45: 	mongoose is connected
+level :info: Jul-21-2023 14:31:02: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 14:31:04: 	mongoose is connected
+level :info: Jul-21-2023 14:38:01: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 14:38:04: 	mongoose is connected
+level :info: Jul-21-2023 14:38:50: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 14:38:53: 	mongoose is connected
+level :info: Jul-21-2023 14:41:31: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 14:41:34: 	mongoose is connected
+level :info: Jul-21-2023 14:41:54: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 14:41:57: 	mongoose is connected
+level :info: Jul-21-2023 14:42:31: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 14:42:33: 	mongoose is connected
+level :info: Jul-21-2023 14:43:06: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 14:43:08: 	mongoose is connected
+level :info: Jul-21-2023 14:43:26: 	server started and running on http://localhost:9000
+level :info: Jul-21-2023 14:43:29: 	mongoose is connected
+level :info: Jul-21-2023 16:09:43: 	mongoose is connected
+level :info: Jul-23-2023 18:19:08: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 18:19:13: 	mongoose is connected
+level :info: Jul-23-2023 18:19:36: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 18:19:39: 	mongoose is connected
+level :info: Jul-23-2023 18:31:57: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 18:32:03: 	mongoose is connected
+level :info: Jul-23-2023 18:38:29: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 18:38:33: 	mongoose is connected
+level :info: Jul-23-2023 18:38:35: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 18:38:38: 	mongoose is connected
+level :info: Jul-23-2023 18:38:46: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 18:38:50: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 18:38:54: 	mongoose is connected
+level :info: Jul-23-2023 18:39:03: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 18:39:08: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 18:39:12: 	mongoose is connected
+level :info: Jul-23-2023 18:41:20: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 18:41:23: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 18:41:26: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 18:41:30: 	mongoose is connected
+level :info: Jul-23-2023 18:58:30: 	mongoose is connected
+level :info: Jul-23-2023 19:01:57: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:02:00: 	mongoose is connected
+level :info: Jul-23-2023 19:02:10: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:02:14: 	mongoose is connected
+level :info: Jul-23-2023 19:02:28: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:02:31: 	mongoose is connected
+level :info: Jul-23-2023 19:02:42: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:02:46: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:02:50: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:02:53: 	mongoose is connected
+level :info: Jul-23-2023 19:02:57: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:03:00: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:03:04: 	mongoose is connected
+level :info: Jul-23-2023 19:03:08: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:03:13: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:03:16: 	mongoose is connected
+level :info: Jul-23-2023 19:03:22: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:03:24: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:03:28: 	mongoose is connected
+level :info: Jul-23-2023 19:03:46: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:03:49: 	mongoose is connected
+level :info: Jul-23-2023 19:04:11: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:04:15: 	mongoose is connected
+level :info: Jul-23-2023 19:04:55: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:04:59: 	mongoose is connected
+level :info: Jul-23-2023 19:05:07: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:05:11: 	mongoose is connected
+level :info: Jul-23-2023 19:09:55: 	mongoose is connected
+level :info: Jul-23-2023 19:13:46: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:13:49: 	mongoose is connected
+level :info: Jul-23-2023 19:14:35: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:14:37: 	mongoose is connected
+level :info: Jul-23-2023 19:37:17: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:37:20: 	mongoose is connected
+level :info: Jul-23-2023 19:37:27: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:37:29: 	mongoose is connected
+level :info: Jul-23-2023 19:38:29: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:38:32: 	mongoose is connected
+level :info: Jul-23-2023 19:39:59: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:40:02: 	mongoose is connected
+level :info: Jul-23-2023 19:40:17: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:40:20: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:40:22: 	mongoose is connected
+level :info: Jul-23-2023 19:40:23: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:40:25: 	mongoose is connected
+level :info: Jul-23-2023 19:40:28: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:40:30: 	mongoose is connected
+level :info: Jul-23-2023 19:40:38: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:40:41: 	mongoose is connected
+level :info: Jul-23-2023 19:40:42: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:40:44: 	mongoose is connected
+level :info: Jul-23-2023 19:40:45: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:40:47: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:40:50: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:40:52: 	mongoose is connected
+level :info: Jul-23-2023 19:40:56: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:40:58: 	mongoose is connected
+level :info: Jul-23-2023 19:41:01: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:41:04: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:41:06: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:41:08: 	mongoose is connected
+level :info: Jul-23-2023 19:41:16: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:41:19: 	mongoose is connected
+level :info: Jul-23-2023 19:41:24: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:41:27: 	mongoose is connected
+level :info: Jul-23-2023 19:41:33: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:41:35: 	mongoose is connected
+level :info: Jul-23-2023 19:42:35: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:42:37: 	mongoose is connected
+level :info: Jul-23-2023 19:42:55: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:42:57: 	mongoose is connected
+level :info: Jul-23-2023 19:43:05: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:43:09: 	mongoose is connected
+level :info: Jul-23-2023 19:43:20: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:43:22: 	mongoose is connected
+level :info: Jul-23-2023 19:43:46: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:43:48: 	mongoose is connected
+level :info: Jul-23-2023 19:44:06: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:44:08: 	mongoose is connected
+level :info: Jul-23-2023 19:44:42: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:44:43: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:44:46: 	mongoose is connected
+level :info: Jul-23-2023 19:44:51: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:44:53: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:44:56: 	mongoose is connected
+level :info: Jul-23-2023 19:45:00: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:45:02: 	mongoose is connected
+level :info: Jul-23-2023 19:45:04: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:45:05: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:45:07: 	mongoose is connected
+level :info: Jul-23-2023 19:45:15: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:45:17: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:45:19: 	mongoose is connected
+level :info: Jul-23-2023 19:45:50: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:45:53: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:45:56: 	mongoose is connected
+level :info: Jul-23-2023 19:45:57: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:45:59: 	mongoose is connected
+level :info: Jul-23-2023 19:46:03: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:46:06: 	mongoose is connected
+level :info: Jul-23-2023 19:46:08: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:46:10: 	mongoose is connected
+level :info: Jul-23-2023 19:46:15: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:46:18: 	mongoose is connected
+level :info: Jul-23-2023 19:46:23: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:46:26: 	mongoose is connected
+level :info: Jul-23-2023 19:46:34: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:46:36: 	mongoose is connected
+level :info: Jul-23-2023 19:46:54: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:46:57: 	mongoose is connected
+level :info: Jul-23-2023 19:47:05: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:47:08: 	mongoose is connected
+level :info: Jul-23-2023 19:47:20: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:47:22: 	mongoose is connected
+level :info: Jul-23-2023 19:47:48: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:47:50: 	mongoose is connected
+level :info: Jul-23-2023 19:48:27: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:48:29: 	mongoose is connected
+level :info: Jul-23-2023 19:48:40: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:48:42: 	mongoose is connected
+level :info: Jul-23-2023 19:48:52: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:48:54: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:48:56: 	mongoose is connected
+level :info: Jul-23-2023 19:48:59: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:49:00: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:49:02: 	mongoose is connected
+level :info: Jul-23-2023 19:49:05: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:49:06: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:49:09: 	mongoose is connected
+level :info: Jul-23-2023 19:49:18: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:49:20: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:49:22: 	mongoose is connected
+level :info: Jul-23-2023 19:49:29: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:49:31: 	mongoose is connected
+level :info: Jul-23-2023 19:49:32: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:49:34: 	mongoose is connected
+level :info: Jul-23-2023 19:49:36: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:49:38: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:49:40: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:49:43: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:49:45: 	mongoose is connected
+level :info: Jul-23-2023 19:49:56: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:00: 	mongoose is connected
+level :info: Jul-23-2023 19:50:01: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:03: 	mongoose is connected
+level :info: Jul-23-2023 19:50:08: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:10: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:13: 	mongoose is connected
+level :info: Jul-23-2023 19:50:14: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:16: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:18: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:20: 	mongoose is connected
+level :info: Jul-23-2023 19:50:21: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:23: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:25: 	mongoose is connected
+level :info: Jul-23-2023 19:50:27: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:29: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:31: 	mongoose is connected
+level :info: Jul-23-2023 19:50:33: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:35: 	mongoose is connected
+level :info: Jul-23-2023 19:50:37: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:39: 	mongoose is connected
+level :info: Jul-23-2023 19:50:45: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:47: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:50: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:51: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:54: 	mongoose is connected
+level :info: Jul-23-2023 19:50:57: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:50:58: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:51:00: 	mongoose is connected
+level :info: Jul-23-2023 19:51:02: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:51:09: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:51:11: 	mongoose is connected
+level :info: Jul-23-2023 19:51:34: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:51:36: 	mongoose is connected
+level :info: Jul-23-2023 19:51:38: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:51:40: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:51:42: 	mongoose is connected
+level :info: Jul-23-2023 19:51:44: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:51:46: 	mongoose is connected
+level :info: Jul-23-2023 19:52:00: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:52:02: 	mongoose is connected
+level :info: Jul-23-2023 19:52:13: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:52:14: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:52:16: 	mongoose is connected
+level :info: Jul-23-2023 19:52:21: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:52:24: 	mongoose is connected
+level :info: Jul-23-2023 19:52:26: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:52:28: 	mongoose is connected
+level :info: Jul-23-2023 19:52:33: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:52:35: 	mongoose is connected
+level :info: Jul-23-2023 19:53:05: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:53:08: 	mongoose is connected
+level :info: Jul-23-2023 19:53:14: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:53:16: 	mongoose is connected
+level :info: Jul-23-2023 19:53:34: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:53:36: 	mongoose is connected
+level :info: Jul-23-2023 19:53:59: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:54:01: 	mongoose is connected
+level :info: Jul-23-2023 19:54:15: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:54:18: 	mongoose is connected
+level :info: Jul-23-2023 19:55:06: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 19:55:08: 	mongoose is connected
+level :info: Jul-23-2023 20:03:25: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:03:28: 	mongoose is connected
+level :info: Jul-23-2023 20:03:29: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:03:31: 	mongoose is connected
+level :info: Jul-23-2023 20:03:46: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:03:48: 	mongoose is connected
+level :info: Jul-23-2023 20:04:00: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:04:02: 	mongoose is connected
+level :info: Jul-23-2023 20:07:25: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:07:28: 	mongoose is connected
+level :info: Jul-23-2023 20:07:44: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:07:46: 	mongoose is connected
+level :info: Jul-23-2023 20:11:12: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:11:15: 	mongoose is connected
+level :info: Jul-23-2023 20:12:35: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:12:40: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:12:42: 	mongoose is connected
+level :info: Jul-23-2023 20:14:19: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:14:22: 	mongoose is connected
+level :info: Jul-23-2023 20:14:45: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:14:48: 	mongoose is connected
+level :info: Jul-23-2023 20:15:01: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:15:03: 	mongoose is connected
+level :info: Jul-23-2023 20:15:31: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:15:33: 	mongoose is connected
+level :info: Jul-23-2023 20:15:56: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:15:58: 	mongoose is connected
+level :info: Jul-23-2023 20:16:13: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:16:16: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:16:17: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:16:19: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:16:20: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:16:22: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:16:25: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:16:27: 	mongoose is connected
+level :info: Jul-23-2023 20:16:30: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:16:33: 	mongoose is connected
+level :info: Jul-23-2023 20:16:38: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:16:40: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:16:42: 	mongoose is connected
+level :info: Jul-23-2023 20:16:57: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:16:59: 	mongoose is connected
+level :info: Jul-23-2023 20:17:08: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:17:10: 	mongoose is connected
+level :info: Jul-23-2023 20:17:16: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:17:17: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:17:19: 	mongoose is connected
+level :info: Jul-23-2023 20:17:23: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:17:26: 	mongoose is connected
+level :info: Jul-23-2023 20:17:27: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:17:29: 	mongoose is connected
+level :info: Jul-23-2023 20:17:30: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:17:33: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:17:35: 	mongoose is connected
+level :info: Jul-23-2023 20:17:39: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:17:41: 	mongoose is connected
+level :info: Jul-23-2023 20:17:44: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:17:47: 	mongoose is connected
+level :info: Jul-23-2023 20:17:59: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:18:01: 	mongoose is connected
+level :info: Jul-23-2023 20:18:27: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:18:29: 	mongoose is connected
+level :info: Jul-23-2023 20:18:42: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:18:44: 	mongoose is connected
+level :info: Jul-23-2023 20:18:56: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:18:59: 	mongoose is connected
+level :info: Jul-23-2023 20:19:11: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:19:13: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:19:16: 	mongoose is connected
+level :info: Jul-23-2023 20:19:26: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:19:40: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:19:42: 	mongoose is connected
+level :info: Jul-23-2023 20:19:58: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:20:01: 	mongoose is connected
+level :info: Jul-23-2023 20:20:50: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:20:53: 	mongoose is connected
+level :info: Jul-23-2023 20:21:05: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:21:07: 	mongoose is connected
+level :info: Jul-23-2023 20:21:17: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:21:19: 	mongoose is connected
+level :info: Jul-23-2023 20:24:59: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:25:02: 	mongoose is connected
+level :info: Jul-23-2023 20:25:14: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:25:16: 	mongoose is connected
+level :info: Jul-23-2023 20:25:23: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:25:26: 	mongoose is connected
+level :info: Jul-23-2023 20:25:29: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:25:31: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:25:33: 	mongoose is connected
+level :info: Jul-23-2023 20:25:40: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:25:42: 	mongoose is connected
+level :info: Jul-23-2023 20:25:47: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:25:48: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:25:51: 	mongoose is connected
+level :info: Jul-23-2023 20:25:52: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:25:54: 	mongoose is connected
+level :info: Jul-23-2023 20:26:01: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:26:04: 	mongoose is connected
+level :info: Jul-23-2023 20:32:03: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:32:06: 	mongoose is connected
+level :info: Jul-23-2023 20:32:24: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:32:26: 	mongoose is connected
+level :info: Jul-23-2023 20:33:42: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:33:45: 	mongoose is connected
+level :info: Jul-23-2023 20:34:36: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:34:38: 	mongoose is connected
+level :info: Jul-23-2023 20:35:03: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:35:06: 	mongoose is connected
+level :info: Jul-23-2023 20:35:57: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:36:00: 	mongoose is connected
+level :info: Jul-23-2023 20:36:21: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:36:24: 	mongoose is connected
+level :info: Jul-23-2023 20:40:28: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:40:31: 	mongoose is connected
+level :info: Jul-23-2023 20:40:43: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:40:46: 	mongoose is connected
+level :info: Jul-23-2023 20:40:51: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:40:53: 	mongoose is connected
+level :info: Jul-23-2023 20:41:15: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 20:41:17: 	mongoose is connected
+level :info: Jul-23-2023 22:26:24: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:26:28: 	mongoose is connected
+level :info: Jul-23-2023 22:30:06: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:30:11: 	mongoose is connected
+level :info: Jul-23-2023 22:35:14: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:35:18: 	mongoose is connected
+level :info: Jul-23-2023 22:35:46: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:35:50: 	mongoose is connected
+level :info: Jul-23-2023 22:36:24: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:36:26: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:36:29: 	mongoose is connected
+level :info: Jul-23-2023 22:36:38: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:36:39: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:36:40: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:36:43: 	mongoose is connected
+level :info: Jul-23-2023 22:36:47: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:36:50: 	mongoose is connected
+level :info: Jul-23-2023 22:37:25: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:37:26: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:37:29: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:37:32: 	mongoose is connected
+level :info: Jul-23-2023 22:38:06: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:38:10: 	mongoose is connected
+level :info: Jul-23-2023 22:38:13: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:38:17: 	mongoose is connected
+level :info: Jul-23-2023 22:38:31: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:38:35: 	mongoose is connected
+level :info: Jul-23-2023 22:38:37: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 22:38:41: 	mongoose is connected
+level :info: Jul-23-2023 23:02:16: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:02:22: 	mongoose is connected
+level :info: Jul-23-2023 23:02:33: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:02:42: 	mongoose is connected
+level :info: Jul-23-2023 23:09:56: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:10:00: 	mongoose is connected
+level :info: Jul-23-2023 23:23:20: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:23:24: 	mongoose is connected
+level :info: Jul-23-2023 23:26:43: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:26:49: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:26:54: 	mongoose is connected
+level :info: Jul-23-2023 23:27:26: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:27:30: 	mongoose is connected
+level :info: Jul-23-2023 23:31:56: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:32:00: 	mongoose is connected
+level :info: Jul-23-2023 23:33:56: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:35:09: 	mongoose is connected
+level :info: Jul-23-2023 23:35:13: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:35:17: 	mongoose is connected
+level :info: Jul-23-2023 23:35:38: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:35:41: 	mongoose is connected
+level :info: Jul-23-2023 23:35:56: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:35:59: 	mongoose is connected
+level :info: Jul-23-2023 23:36:11: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:36:17: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:36:21: 	mongoose is connected
+level :info: Jul-23-2023 23:36:35: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:36:39: 	mongoose is connected
+level :info: Jul-23-2023 23:37:39: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:37:45: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:37:48: 	mongoose is connected
+level :info: Jul-23-2023 23:38:30: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:38:33: 	mongoose is connected
+level :info: Jul-23-2023 23:39:05: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:39:07: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:39:10: 	mongoose is connected
+level :info: Jul-23-2023 23:39:57: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:40:00: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:40:02: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:40:03: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:40:04: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:40:05: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:40:07: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:40:08: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:40:10: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:40:11: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:40:14: 	mongoose is connected
+level :info: Jul-23-2023 23:40:26: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:40:29: 	mongoose is connected
+level :info: Jul-23-2023 23:40:45: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:40:48: 	mongoose is connected
+level :info: Jul-23-2023 23:41:15: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:41:20: 	mongoose is connected
+level :info: Jul-23-2023 23:41:43: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:41:47: 	mongoose is connected
+level :info: Jul-23-2023 23:42:04: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:42:08: 	mongoose is connected
+level :info: Jul-23-2023 23:44:05: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:44:09: 	mongoose is connected
+level :info: Jul-23-2023 23:44:35: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:44:39: 	mongoose is connected
+level :info: Jul-23-2023 23:44:47: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:44:51: 	mongoose is connected
+level :info: Jul-23-2023 23:45:10: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:45:14: 	mongoose is connected
+level :info: Jul-23-2023 23:45:20: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:45:29: 	mongoose is connected
+level :info: Jul-23-2023 23:45:30: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:45:38: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:45:41: 	mongoose is connected
+level :info: Jul-23-2023 23:46:13: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:46:18: 	mongoose is connected
+level :info: Jul-23-2023 23:47:25: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:47:27: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:47:29: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:47:33: 	mongoose is connected
+level :info: Jul-23-2023 23:47:40: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:47:43: 	mongoose is connected
+level :info: Jul-23-2023 23:47:44: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:47:47: 	mongoose is connected
+level :info: Jul-23-2023 23:47:54: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:47:57: 	mongoose is connected
+level :info: Jul-23-2023 23:48:02: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:48:05: 	mongoose is connected
+level :info: Jul-23-2023 23:48:11: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:48:13: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:48:16: 	mongoose is connected
+level :info: Jul-23-2023 23:48:24: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:48:25: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:48:27: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:48:29: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:48:32: 	mongoose is connected
+level :info: Jul-23-2023 23:48:40: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:48:43: 	mongoose is connected
+level :info: Jul-23-2023 23:49:34: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:49:38: 	mongoose is connected
+level :info: Jul-23-2023 23:50:13: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:50:16: 	mongoose is connected
+level :info: Jul-23-2023 23:50:18: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:50:21: 	mongoose is connected
+level :info: Jul-23-2023 23:50:31: 	server started and running on http://localhost:9000
+level :info: Jul-23-2023 23:50:34: 	mongoose is connected
+level :info: Jul-24-2023 14:17:04: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:18:16: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:18:19: 	mongoose is connected
+level :info: Jul-24-2023 14:24:38: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:24:41: 	mongoose is connected
+level :info: Jul-24-2023 14:26:56: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:26:59: 	mongoose is connected
+level :info: Jul-24-2023 14:27:51: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:27:54: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:27:56: 	mongoose is connected
+level :info: Jul-24-2023 14:28:07: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:28:09: 	mongoose is connected
+level :info: Jul-24-2023 14:28:19: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:28:22: 	mongoose is connected
+level :info: Jul-24-2023 14:28:43: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:28:45: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:28:47: 	mongoose is connected
+level :info: Jul-24-2023 14:29:18: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:29:21: 	mongoose is connected
+level :info: Jul-24-2023 14:31:44: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:31:47: 	mongoose is connected
+level :info: Jul-24-2023 14:32:18: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:32:21: 	mongoose is connected
+level :info: Jul-24-2023 14:33:22: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:33:25: 	mongoose is connected
+level :info: Jul-24-2023 14:34:01: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:34:03: 	mongoose is connected
+level :info: Jul-24-2023 14:34:30: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:34:33: 	mongoose is connected
+level :info: Jul-24-2023 14:40:02: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:40:05: 	mongoose is connected
+level :info: Jul-24-2023 14:42:06: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:42:09: 	mongoose is connected
+level :info: Jul-24-2023 14:43:16: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:43:19: 	mongoose is connected
+level :info: Jul-24-2023 14:44:11: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:44:14: 	mongoose is connected
+level :info: Jul-24-2023 14:44:32: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:44:35: 	mongoose is connected
+level :info: Jul-24-2023 14:46:32: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:46:34: 	mongoose is connected
+level :info: Jul-24-2023 14:47:49: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:47:52: 	mongoose is connected
+level :info: Jul-24-2023 14:47:55: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:47:57: 	mongoose is connected
+level :info: Jul-24-2023 14:48:46: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:48:48: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:48:50: 	mongoose is connected
+level :info: Jul-24-2023 14:48:59: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:49:01: 	mongoose is connected
+level :info: Jul-24-2023 14:49:20: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:49:23: 	mongoose is connected
+level :info: Jul-24-2023 14:49:28: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:49:30: 	mongoose is connected
+level :info: Jul-24-2023 14:50:21: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:50:24: 	mongoose is connected
+level :info: Jul-24-2023 14:50:36: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:50:40: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:50:43: 	mongoose is connected
+level :info: Jul-24-2023 14:50:51: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:50:54: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:50:57: 	mongoose is connected
+level :info: Jul-24-2023 14:51:13: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:51:15: 	mongoose is connected
+level :info: Jul-24-2023 14:55:59: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:56:02: 	mongoose is connected
+level :info: Jul-24-2023 14:56:32: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 14:56:35: 	mongoose is connected
+level :info: Jul-24-2023 15:05:20: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 15:05:22: 	mongoose is connected
+level :info: Jul-24-2023 15:06:15: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 15:06:19: 	mongoose is connected
+level :info: Jul-24-2023 15:06:40: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 15:06:43: 	mongoose is connected
+level :info: Jul-24-2023 15:23:46: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 15:23:49: 	mongoose is connected
+level :info: Jul-24-2023 15:42:08: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 15:42:11: 	mongoose is connected
+level :info: Jul-24-2023 15:44:30: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 15:44:33: 	mongoose is connected
+level :info: Jul-24-2023 15:59:13: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 15:59:15: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 15:59:18: 	mongoose is connected
+level :info: Jul-24-2023 16:16:08: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:16:10: 	mongoose is connected
+level :info: Jul-24-2023 16:18:27: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:18:29: 	mongoose is connected
+level :info: Jul-24-2023 16:19:39: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:19:42: 	mongoose is connected
+level :info: Jul-24-2023 16:20:51: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:20:54: 	mongoose is connected
+level :info: Jul-24-2023 16:20:56: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:20:59: 	mongoose is connected
+level :info: Jul-24-2023 16:27:33: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:27:35: 	mongoose is connected
+level :info: Jul-24-2023 16:29:08: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:29:11: 	mongoose is connected
+level :info: Jul-24-2023 16:29:12: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:29:14: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:29:15: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:29:18: 	mongoose is connected
+level :info: Jul-24-2023 16:30:35: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:30:37: 	mongoose is connected
+level :info: Jul-24-2023 16:30:41: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:30:44: 	mongoose is connected
+level :info: Jul-24-2023 16:43:26: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:43:28: 	mongoose is connected
+level :info: Jul-24-2023 16:45:57: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:46:00: 	mongoose is connected
+level :info: Jul-24-2023 16:47:17: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:47:19: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:47:21: 	mongoose is connected
+level :info: Jul-24-2023 16:50:55: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:50:58: 	mongoose is connected
+level :info: Jul-24-2023 16:51:27: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 16:51:30: 	mongoose is connected
+level :info: Jul-24-2023 17:25:05: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 17:25:07: 	mongoose is connected
+level :info: Jul-24-2023 17:30:48: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 17:31:33: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 17:31:36: 	mongoose is connected
+level :info: Jul-24-2023 17:38:57: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 17:38:59: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 17:39:01: 	mongoose is connected
+level :info: Jul-24-2023 18:25:16: 	server started and running on http://localhost:9000
+level :info: Jul-24-2023 18:25:19: 	mongoose is connected
+level :info: Jul-25-2023 11:16:46: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:16:51: 	mongoose is connected
+level :info: Jul-25-2023 11:43:53: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:43:56: 	mongoose is connected
+level :info: Jul-25-2023 11:48:13: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:48:17: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:48:18: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:48:21: 	mongoose is connected
+level :info: Jul-25-2023 11:48:26: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:48:27: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:48:29: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:48:32: 	mongoose is connected
+level :info: Jul-25-2023 11:48:35: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:48:37: 	mongoose is connected
+level :info: Jul-25-2023 11:48:40: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:48:41: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:48:43: 	mongoose is connected
+level :info: Jul-25-2023 11:48:53: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:48:55: 	mongoose is connected
+level :info: Jul-25-2023 11:49:04: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:49:07: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:49:08: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:49:11: 	mongoose is connected
+level :info: Jul-25-2023 11:49:12: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:49:15: 	mongoose is connected
+level :info: Jul-25-2023 11:50:29: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:50:33: 	mongoose is connected
+level :info: Jul-25-2023 11:56:06: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 11:56:09: 	mongoose is connected
+level :info: Jul-25-2023 12:02:59: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:03:02: 	mongoose is connected
+level :info: Jul-25-2023 12:03:34: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:03:38: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:03:40: 	mongoose is connected
+level :info: Jul-25-2023 12:03:44: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:03:46: 	mongoose is connected
+level :info: Jul-25-2023 12:03:49: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:03:51: 	mongoose is connected
+level :info: Jul-25-2023 12:07:41: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:07:44: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:07:47: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:07:50: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:07:53: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:07:56: 	mongoose is connected
+level :info: Jul-25-2023 12:07:57: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:07:59: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:08:01: 	mongoose is connected
+level :info: Jul-25-2023 12:08:03: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:08:05: 	mongoose is connected
+level :info: Jul-25-2023 12:08:09: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:08:11: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:08:12: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:08:14: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:08:16: 	mongoose is connected
+level :info: Jul-25-2023 12:27:47: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:27:52: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:27:54: 	mongoose is connected
+level :info: Jul-25-2023 12:33:36: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 12:33:41: 	mongoose is connected
+level :info: Jul-25-2023 12:53:06: 	mongoose is connected
+level :info: Jul-25-2023 14:44:34: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 14:44:36: 	mongoose is connected
+level :info: Jul-25-2023 15:20:55: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 15:20:58: 	mongoose is connected
+level :info: Jul-25-2023 16:24:44: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 16:24:45: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 16:24:46: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 16:24:48: 	mongoose is connected
+level :info: Jul-25-2023 16:24:50: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 16:24:52: 	mongoose is connected
+level :info: Jul-25-2023 16:25:05: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 16:25:08: 	mongoose is connected
+level :info: Jul-25-2023 16:25:35: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 16:25:37: 	mongoose is connected
+level :info: Jul-25-2023 16:25:42: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 16:25:44: 	mongoose is connected
+level :info: Jul-25-2023 16:25:46: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 16:25:48: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 16:25:50: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 16:25:53: 	mongoose is connected
+level :info: Jul-25-2023 17:19:26: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 17:19:29: 	mongoose is connected
+level :info: Jul-25-2023 17:19:57: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 17:20:00: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 17:20:02: 	mongoose is connected
+level :info: Jul-25-2023 17:20:11: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 17:20:14: 	mongoose is connected
+level :info: Jul-25-2023 17:21:06: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 17:21:08: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 17:21:09: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 17:21:10: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 17:21:12: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 17:21:15: 	mongoose is connected
+level :info: Jul-25-2023 17:21:31: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 17:21:33: 	mongoose is connected
+level :info: Jul-25-2023 17:41:12: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 17:41:15: 	mongoose is connected
+level :info: Jul-25-2023 18:03:40: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 18:03:43: 	mongoose is connected
+level :info: Jul-25-2023 23:44:03: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 23:44:08: 	mongoose is connected
+level :info: Jul-25-2023 23:58:21: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 23:58:26: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 23:58:32: 	server started and running on http://localhost:9000
+level :info: Jul-25-2023 23:58:35: 	mongoose is connected
+level :info: Jul-26-2023 00:01:59: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 00:02:03: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 00:02:06: 	mongoose is connected
+level :info: Jul-26-2023 00:02:09: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 00:02:12: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 00:02:15: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 00:02:18: 	mongoose is connected
+level :info: Jul-26-2023 00:02:29: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 00:02:31: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 00:02:37: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 00:02:40: 	mongoose is connected
+level :info: Jul-26-2023 00:02:52: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 00:02:55: 	mongoose is connected
+level :info: Jul-26-2023 00:02:59: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 00:03:02: 	mongoose is connected
+level :info: Jul-26-2023 00:03:26: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 00:03:30: 	mongoose is connected
+level :info: Jul-26-2023 01:18:11: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 01:18:16: 	mongoose is connected
+level :info: Jul-26-2023 01:24:08: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 01:24:12: 	mongoose is connected
+level :info: Jul-26-2023 01:24:49: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 01:24:53: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 01:24:56: 	mongoose is connected
+level :info: Jul-26-2023 01:25:01: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 01:25:04: 	mongoose is connected
+level :info: Jul-26-2023 10:40:52: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 10:41:14: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 10:41:17: 	mongoose is connected
+level :info: Jul-26-2023 10:54:37: 	mongoose is connected
+level :info: Jul-26-2023 11:02:22: 	mongoose is connected
+level :info: Jul-26-2023 11:13:25: 	mongoose is connected
+level :info: Jul-26-2023 11:20:10: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 11:20:14: 	mongoose is connected
+level :info: Jul-26-2023 12:16:40: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 12:16:44: 	mongoose is connected
+level :info: Jul-26-2023 16:26:05: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 16:26:08: 	mongoose is connected
+level :info: Jul-26-2023 16:26:36: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 16:26:39: 	mongoose is connected
+level :info: Jul-26-2023 17:51:15: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:51:17: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:51:19: 	mongoose is connected
+level :info: Jul-26-2023 17:51:24: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:51:27: 	mongoose is connected
+level :info: Jul-26-2023 17:51:30: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:51:32: 	mongoose is connected
+level :info: Jul-26-2023 17:51:37: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:51:42: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:51:44: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:51:46: 	mongoose is connected
+level :info: Jul-26-2023 17:51:58: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:00: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:03: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:05: 	mongoose is connected
+level :info: Jul-26-2023 17:52:06: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:09: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:11: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:12: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:14: 	mongoose is connected
+level :info: Jul-26-2023 17:52:19: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:22: 	mongoose is connected
+level :info: Jul-26-2023 17:52:24: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:27: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:29: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:32: 	mongoose is connected
+level :info: Jul-26-2023 17:52:34: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:36: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:39: 	mongoose is connected
+level :info: Jul-26-2023 17:52:40: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:44: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 17:52:46: 	mongoose is connected
+level :info: Jul-26-2023 18:08:39: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 18:08:40: 	server started and running on http://localhost:9000
+level :info: Jul-26-2023 18:08:44: 	mongoose is connected
+level :info: Jul-27-2023 10:28:11: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 10:28:15: 	mongoose is connected
+level :info: Jul-27-2023 10:30:16: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 10:30:20: 	mongoose is connected
+level :info: Jul-27-2023 10:33:31: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 10:33:34: 	mongoose is connected
+level :info: Jul-27-2023 10:33:59: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 10:34:02: 	mongoose is connected
+level :info: Jul-27-2023 10:34:16: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 10:34:19: 	mongoose is connected
+level :info: Jul-27-2023 10:41:49: 	mongoose is connected
+level :info: Jul-27-2023 11:30:07: 	mongoose is connected
+level :info: Jul-27-2023 11:32:39: 	mongoose is connected
+level :info: Jul-27-2023 11:36:31: 	mongoose is connected
+level :info: Jul-27-2023 14:45:17: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 14:45:21: 	mongoose is connected
+level :info: Jul-27-2023 14:45:50: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 14:45:56: 	mongoose is connected
+level :info: Jul-27-2023 15:19:17: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 15:19:20: 	mongoose is connected
+level :info: Jul-27-2023 15:19:37: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 15:19:41: 	mongoose is connected
+level :info: Jul-27-2023 15:23:24: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 15:23:28: 	mongoose is connected
+level :info: Jul-27-2023 15:23:32: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 15:23:36: 	mongoose is connected
+level :info: Jul-27-2023 15:28:42: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 15:28:44: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 15:28:48: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 15:28:51: 	mongoose is connected
+level :info: Jul-27-2023 15:50:48: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 15:50:50: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 15:50:53: 	mongoose is connected
+level :info: Jul-27-2023 18:01:49: 	server started and running on http://localhost:9000
+level :info: Jul-27-2023 18:01:52: 	mongoose is connected
+level :info: Jul-28-2023 10:59:02: 	server started and running on http://localhost:9000
+level :info: Jul-28-2023 10:59:06: 	mongoose is connected
+level :info: Jul-28-2023 11:05:57: 	mongoose is connected
+level :info: Jul-28-2023 14:46:55: 	server started and running on http://localhost:9000
+level :info: Jul-28-2023 14:46:58: 	mongoose is connected
+level :info: Jul-28-2023 14:47:18: 	server started and running on http://localhost:9000
+level :info: Jul-28-2023 14:47:21: 	mongoose is connected
+level :info: Jul-28-2023 16:55:47: 	mongoose is connected
+level :info: Jul-30-2023 17:13:33: 	server started and running on http://localhost:9000
+level :info: Jul-30-2023 17:13:38: 	mongoose is connected
+level :info: Jul-30-2023 17:13:44: 	server started and running on http://localhost:9000
+level :info: Jul-30-2023 17:13:47: 	mongoose is connected
+level :info: Jul-31-2023 09:56:34: 	server started and running on http://localhost:9000
+level :info: Jul-31-2023 09:56:38: 	mongoose is connected
+level :info: Jul-31-2023 10:05:32: 	server started and running on http://localhost:9000
+level :info: Jul-31-2023 10:05:37: 	mongoose is connected
+level :info: Jul-31-2023 17:29:56: 	server started and running on http://localhost:9000
+level :info: Jul-31-2023 17:29:58: 	mongoose is connected

@@ -33,18 +33,15 @@ const userSchema = new mongoose.Schema({
     type: String,
   },
   isActive: {
-    type: String,
-    default: true,
+    type: Boolean,
   },
   updateAt: {
-    type: String,
-    default: true,
+    type: Boolean,
   },
   CreatedAt: {
-    type: String,
-    default: true,
+    type: Boolean,
   },
 });
 
-userSchema.set("timestraps", true);
-module.exports = mongoose.model("user", userSchema);
+userSchema.set("timestamps", true);
+module.exports = mongoose.model("users", userSchema); //collection

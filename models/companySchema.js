@@ -32,5 +32,5 @@ const companySchema = new mongoose.Schema({
   },
 });
 
-companySchema.set("timestraps", true);
+companySchema.set("timestamps", true);
 module.exports = mongoose.model("company", companySchema);

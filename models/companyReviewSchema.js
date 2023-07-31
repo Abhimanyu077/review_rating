@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const companySchema = require("./companySchema");
 
 const reviewSchema = new mongoose.Schema({
-  companyReviewsubject: {
+  companyReviewSubject: {
     type: String,
     require: true,
   },
@@ -16,7 +16,7 @@ const reviewSchema = new mongoose.Schema({
     require: true,
   },
   userId: {
-    type: mongoose.Types.ObjectId,
+    type: mongoose.Types.ObjectId, // MongoDB referencing
     ref: "user",
     require: true,
   },
@@ -25,7 +25,7 @@ const reviewSchema = new mongoose.Schema({
     ref: "company",
     require: true,
   },
-  isAcive: {
+  isActive: {
     type: String,
     require: true,
   },
@@ -38,4 +38,5 @@ const reviewSchema = new mongoose.Schema({
     require: true,
   },
 });
+reviewSchema.set("timestamps", true);
 module.exports = mongoose.model("companyReview", reviewSchema);

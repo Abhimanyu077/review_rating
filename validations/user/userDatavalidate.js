@@ -1,5 +1,5 @@
-const userValSchema = require("./userValSchema");
 const { unlinkSync } = require("fs");
+const userValSchema = require("./userValSchema");
 
 module.exports = {
   registerUserValidation: async (req, res, next) => {
@@ -7,7 +7,7 @@ module.exports = {
       abortEarly: false,
     });
     if (value.error) {
-      req.file ? unlinkSync(req.file.path) : null; // Delet multer unnessacessary  images
+      req.file ? unlinkSync(req.file.path) : null; // Delete multer unnecessary  images
       res.status(403).json;
       res.json({
         success: false,
@@ -17,12 +17,11 @@ module.exports = {
       next();
     }
   },
-
+  
   userLoginValidation: async (req, res, next) => {
     const value = await userValSchema.loginUser.validate(req.body, {
       abort: false,
     });
-
     if (value.error) {
       res.status(403).json;
       res.json({
@@ -33,9 +32,9 @@ module.exports = {
       next();
     }
   },
+  
   resetPasswordValidation: async (req, res, next) => {
     const value = await userValSchema.resetPassword.validate(req.body);
-
     if (value.error) {
       res.status(403).json({
         success: false,

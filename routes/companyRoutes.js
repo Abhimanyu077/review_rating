@@ -2,19 +2,12 @@ let express = require("express");
 
 let company = require("../controllers/companyController");
 let { upload } = require("../middlewares/companyImageStorage");
-let { userAuthorization } = require("../middlewares/authToken");
-const {
-  registerCompanyValidation,
-} = require("../validations/company/companyDatavalidation");
+let { userAuthentication } = require("../middlewares/authToken");
+const {registerCompanyValidation,} = require("../validations/company/companyDatavalidation");
 
 let companyRouter = express.Router();
 
-companyRouter.post(
-  "/create",
-  upload.single("companyPic"),
-  registerCompanyValidation,
-  company.createCompany
-);
+companyRouter.post("/create",upload.single("companyPic"),userAuthentication,registerCompanyValidation,company.createCompany);
 companyRouter.get("/list", company.companyList);
 companyRouter.get("/details/:id", company.companyDetails);
 companyRouter.get("/search/:companyName", company.searchCompany);

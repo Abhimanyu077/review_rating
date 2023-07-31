@@ -23,7 +23,7 @@ const userValSchema = {
         .number()
         .integer()
         .min(100000000)
-        .max(999999999999999)
+        .max(999999999)
         .message("invalid mobile number")
         .required(),
       userPassword: joiPassword
@@ -51,31 +51,21 @@ const userValSchema = {
       userCity: joi.string().required(),
       userState: joi.string().required(),
     })
-    .unknown(true),
+    .unknown(true),    
 
-  // LOGIN USER
+//                       LOGIN USER
 
   loginUser: joi.object({
-    userEmail: joi.string().email().message("invalid email address").required(),
-
-    userPassword: joi
-
-      // .string()
-      // .minOfSpecialCharacters(1)
-      // .minOfLowercase(1)
-      // .minOfUppercase(1)
-      // .minOfNumeric(1)
-      // .noWhiteSpaces()
+    userEmail: joi.string()
+      .email()
+      .message("invalid email address")
       .required(),
-    // .messages({
-    //     'userPassword.minOfUppercase': '{#label} should contain at least {#min} uppercase character',
-    //     'userPassword.minOfSpecialCharacters': '{#label} should contain at least {#min} special character',
-    //     'userPassword.minOfLowercase': '{#label} should contain at least {#min} lowercase character',
-    //     'userPassword.minOfNumeric': '{#label} should contain at least {#min} numeric character',
-    //     'userPassword.noWhiteSpaces': '{#label} should not contain white spaces',
-    //     'userPassword.onlyLatinCharacters': '{#label} should contain only latin characters',
-    // }),
+    userPassword: joi
+      .required(),    
   }),
+
+//                        resetPassword
+
   resetPassword: joi.object({
     newPassword: joiPassword
       .string()

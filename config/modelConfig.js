@@ -4,6 +4,7 @@ const logger = require("../utils/loggers");
 
 mongoose.connect(process.env.URL, {
   useNewUrlParser: "true",
+  // for preventing Deprecation Warning
 });
 
 // mongoose.connect("mongodb://127.0.0.1:27017/review", {
@@ -11,11 +12,11 @@ mongoose.connect(process.env.URL, {
 // });
 
 mongoose.connection.on("error", (err) => {
-  // console.log("mongoose Connection Error", err);
+  console.log("mongoose Connection Error", err);
   logger.log("error", "mongoose connection error");
 });
 
 mongoose.connection.on("connected", (err, res) => {
-  // console.log("mongoose is connected");
+  console.log("mongoose is connected");
   logger.log("info", "mongoose is connected");
 });

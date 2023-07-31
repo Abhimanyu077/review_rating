@@ -11,8 +11,6 @@ const imageConfig = multer.diskStorage({
   },
 });
 
-// IT is OPTIONAL
-
 const isImage = (req, file, callback) => {
   if (file.mimetype.startsWith("image")) {
     callback(null, true);

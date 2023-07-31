@@ -39,7 +39,7 @@ app.use("/", userRouter);
 app.use("/", commonRouter);
 
 // Run the server
-app.listen(PORT, () => {
+const server = app.listen(PORT, () => {
   console.log(`server started ...${PORT}`);
   logger.info(`server started and running on http://${HOST}:${PORT}`);
 });
@@ -47,3 +47,5 @@ app.listen(PORT, () => {
 // app.listen(process.env.PORT, (req, res) => {
 //   console.log(`server is Running on port no : ${process.env.PORT} `);
 // });
+
+module.exports = server;

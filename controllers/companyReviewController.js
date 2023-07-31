@@ -27,7 +27,6 @@ let updateReview = async (req, res) => {
     res.status(201).send({
       success: true,
       message: "Employee review updated successfully",
-      updateReview: updateData,
     });
   } catch (error) {
     res.status(500).send({
@@ -44,7 +43,6 @@ let deleteReview = async (req, res) => {
     res.status(201).send({
       success: true,
       message: "review delete successfully",
-      deleteReview: deleteData,
     });
   } catch (error) {
     res.status(500).send({
